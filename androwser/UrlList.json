@@ -1,0 +1,19 @@
+{
+  "urls": [
+    {
+      "url": "https://www.google.com",
+      "wakeup": "20:55",
+      "die": "20:56"
+    },
+    {
+      "url": "https://www.uol.com.br",
+      "wakeup": "20:56",
+      "die": "20:57"
+    },
+    {
+      "url": "https://www.linkedin.com",
+      "wakeup": "20:57",
+      "die": "20:58"
+    }
+  ]
+}
